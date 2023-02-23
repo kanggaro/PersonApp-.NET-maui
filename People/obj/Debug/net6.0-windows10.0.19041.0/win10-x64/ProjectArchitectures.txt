@@ -1,0 +1,1 @@
+C:\Users\asus\source\repos\mslearn-dotnetmaui-store-local-data\People\People\People.csproj;x64
